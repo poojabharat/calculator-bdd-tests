@@ -3,10 +3,13 @@
    <description></description>
    <name>demo</name>
    <tag></tag>
-   <UUID>2be1953f-d7ef-496b-9ff2-280e4f491bc8</UUID>
+   <UUID>fa96184a-35a2-4917-96d8-47367d10ec54</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.2.4</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/quiducle/Documents/calculator-sample/demo.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\90949858\Katalon Studio\AlkemizAutomation\demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +28,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
